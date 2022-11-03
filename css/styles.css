@@ -1,0 +1,49 @@
+*{
+    
+    margin:0;
+    padding:0;
+}
+
+body {
+    
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+    font-size: 17px;
+    color:coral;
+    line-height: 1.6;
+    text-align: center;
+}
+
+#fullscreen{
+    
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../img/imagen.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    
+}
+
+
+
+
+
+
+#particles-js {
+    
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../img/imagen.jpg');
+    background-size: cover;
+    background-position: center;
+    
+}
+
+#particles-js h1{
+    
+    font-size: 50px;
+    position: absolute;
+    top: 270px;
+    left: 800px;
+    font-weight: 200;
+    color:aquamarine;
+    text-align: center;
+}
+
